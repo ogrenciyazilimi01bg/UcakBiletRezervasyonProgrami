@@ -1,0 +1,15 @@
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.csproj.AssemblyReference.cache
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.AssemblyInfoInputs.cache
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.AssemblyInfo.cs
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.csproj.CoreCompileInputs.cache
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\bin\Debug\net6.0\UcakBiletRezervasyonProgrami.exe
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\bin\Debug\net6.0\UcakBiletRezervasyonProgrami.deps.json
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\bin\Debug\net6.0\UcakBiletRezervasyonProgrami.runtimeconfig.json
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\bin\Debug\net6.0\UcakBiletRezervasyonProgrami.dll
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\bin\Debug\net6.0\UcakBiletRezervasyonProgrami.pdb
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.dll
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\refint\UcakBiletRezervasyonProgrami.dll
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.pdb
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\UcakBiletRezervasyonProgrami.genruntimeconfig.cache
+C:\Users\kullanıcı\source\repos\UcakBiletRezervasyonProgrami\UcakBiletRezervasyonProgrami\obj\Debug\net6.0\ref\UcakBiletRezervasyonProgrami.dll

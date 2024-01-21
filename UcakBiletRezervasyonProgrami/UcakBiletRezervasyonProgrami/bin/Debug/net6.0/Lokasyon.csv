@@ -1,0 +1,4 @@
+id,sehir,ulke,seyehatSuresi,havaalani,aktifPasif
+1, İstanbul - İzmir            ,           Türkiye   ,70,İstanbul Sabiha Gökçen Havalimanı - İzmir Adnan Menderes Havalimanı ,True
+2, İstanbul - Ankara            ,           Türkiye   ,65,İstanbul Sabiha Gökçen Havalimanı - Ankara Esenboğa Havalimanı ,True
+3, İzmir - Ankara    ,           Türkiye   ,70,İzmir Adnan Menderes Havalimanı - Ankara Esenboğa Havalimanı ,True
